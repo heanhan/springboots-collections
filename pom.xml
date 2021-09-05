@@ -18,9 +18,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>springboot-xxl-job</module>
+        <!--<module>springboot-xxl-job</module>
         <module>springboot-easyExcel</module>
-        <module>springboot-jenkisn-jar</module>
+        <module>springboot-jenkisn-jar</module>-->
     </modules>
 
     <properties>
